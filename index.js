@@ -1,0 +1,1 @@
+const alarm = () => alert("We could not find this recipe.")
